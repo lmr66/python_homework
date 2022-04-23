@@ -4,3 +4,4 @@ Please edit this file to add your personal information
 1. Name you are registered with: I registered my name with lmr66
 2. Name you prefer to be called: I'd rather to be called with my Chinese initials
 3. Pronouns: 
+my chinese name is 李昕翰 and my github name is lmr66
