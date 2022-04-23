@@ -8,4 +8,7 @@ players=['a','b','c']
 for player in players:
     print(player)
 
+players=['a','b','c']
+for player in players:
+    print(player.title()+"think this is a good game")
 
